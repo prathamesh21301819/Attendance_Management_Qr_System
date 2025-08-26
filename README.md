@@ -19,19 +19,6 @@ A Java-based desktop application that simplifies attendance tracking using QR co
 
 
 
-📂 Project Structure
-Attendance_Management_Qr_System/
-├── src/
-│   ├── dao/               # Database access objects
-│   ├── gui/               # Swing UI components
-│   ├── models/            # Data models
-│   └── utils/             # QR code and helper functions
-├── .idea/                 # IDE config (excluded from Git)
-├── README.md
-└── LICENSE
-
-
-
 ⚙️ Setup Instructions
 - Clone the repo:
 git clone https://github.com/prathamesh21301819/Attendance_Management_Qr_System.git
@@ -44,11 +31,12 @@ git clone https://github.com/prathamesh21301819/Attendance_Management_Qr_System.
 - Build and run Main.java
 
 📸 Screenshots
-[DashBoard](https://github.com/user-attachments/assets/802df34f-c756-4ee1-9fff-5df6c8d5f8bd)
-[DeleteUser](https://github.com/user-attachments/assets/ad477002-12a3-4389-98ef-00251e4aa79b)
+
 <img width="1061" height="589" alt="2025-08-27" src="https://github.com/user-attachments/assets/c0831fa1-d089-4061-be18-c259c3d4b6d8" />
-
-
+<img width="1920" height="1080" alt="Screenshot 2025-08-27 044548" src="https://github.com/user-attachments/assets/a17941c8-7a3e-4cee-a6af-cc48f33e5044" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-27 044630" src="https://github.com/user-attachments/assets/5430039b-63c9-40d2-87aa-aaa14fc2e68d" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-27 044655" src="https://github.com/user-attachments/assets/dc451fa0-65b2-4b3b-8ac9-14c108ba602a" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-27 044711" src="https://github.com/user-attachments/assets/10720d55-cf27-4553-872f-5d2dbd7f9a53" />
 
 🧠 Author
 Prathamesh Patil
