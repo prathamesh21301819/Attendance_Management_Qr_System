@@ -44,8 +44,10 @@ git clone https://github.com/prathamesh21301819/Attendance_Management_Qr_System.
 - Build and run Main.java
 
 📸 Screenshots
-
 [DashBoard](https://github.com/user-attachments/assets/802df34f-c756-4ee1-9fff-5df6c8d5f8bd)
+[DeleteUser](https://github.com/user-attachments/assets/ad477002-12a3-4389-98ef-00251e4aa79b)
+<img width="1061" height="589" alt="2025-08-27" src="https://github.com/user-attachments/assets/c0831fa1-d089-4061-be18-c259c3d4b6d8" />
+
 
 
 🧠 Author
